@@ -1,0 +1,18 @@
+body {
+    background: #abc322;
+    background: linear-gradient(126deg, rgba(171, 195, 34, 1) 0%, rgba(68, 174, 193, 1) 20%, rgba(192, 129, 84, 1) 30%, rgba(190, 182, 119, 1) 50%, rgba(141, 152, 166, 1) 58%, rgba(178, 164, 126, 1) 72%, rgba(211, 174, 90, 1) 84%, rgba(225, 178, 75, 1) 90%, rgba(253, 187, 45, 1) 100%);
+    color: white;
+    cursor: url("../images/coffee-pot.png"), auto; 
+}
+
+h1 {
+    font-family: sans-serif;
+
+    text-align: center;
+}
+
+img {
+    border: 5px solid rgb(208, 108, 185);
+    display: block;
+    margin: auto;
+}
